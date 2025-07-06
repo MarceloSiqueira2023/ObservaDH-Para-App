@@ -1,0 +1,20 @@
+[theme]
+# Cor primária para o seu aplicativo (ex: azul)
+primaryColor="#007BFF"
+# Cor de fundo para a área principal do conteúdo
+backgroundColor="#F0F2F6"
+# Cor de fundo para a barra lateral e outros elementos da UI
+secondaryBackgroundColor="#FFFFFF"
+# Cor da fonte para o seu aplicativo
+textColor="#333333"
+# Família da fonte para o seu aplicativo (ex: "sans serif", "serif", "monospace")
+font="sans serif"
+
+[global]
+# Oculta o aviso "Made with Streamlit" no rodapé
+disableWatchdogWarning = true
+showWarningOnDirectExecution = false
+
+[client]
+# Garante que a navegação da barra lateral seja exibida automaticamente
+showSidebarNavigation = true

@@ -1,0 +1,22 @@
+# Ignorar pastas de ambiente virtual
+.venv/
+venv/
+
+# Ignorar arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Ignorar arquivos específicos do Streamlit (se não forem necessários no deploy)
+# Se você tem o config.toml para tema (base="dark"), pode removê-lo do .gitignore
+# .streamlit/local_config.toml # Exemplo para ignorar um arquivo de config local específico
+
+# Ignorar logs e outros arquivos temporários
+*.log
+*.tmp
+*.swp

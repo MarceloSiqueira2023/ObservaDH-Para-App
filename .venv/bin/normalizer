@@ -1,4 +1,4 @@
-#!/home/marcelo/Trabalhos_terceiros/Tio_Carlos/Observa_DH_PA_jun_2025/Gemini/.venv/bin/python3.12
+#!/home/marcelo/Trabalhos_terceiros/Tio_Carlos/Observa_DH_PA_jun_2025/DH_PA/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
